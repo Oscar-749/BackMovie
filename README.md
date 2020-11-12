@@ -6,5 +6,3 @@ Reto de una Base de Datos para alquilar peliculas donde podremos registarnos, ve
 - Mongoose
 - Express
 - Postman
-
-# GITHUB PAGES
