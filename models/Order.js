@@ -3,8 +3,8 @@ const mongoose = require('mongoose');
 const OrderSchema = new mongoose.Schema({
     user_id: String,
     movie_id: String,
-    createDate: Date,
-    returnDate: Date
+    departure_date: Date,
+    deliver_date: Date
 })
 
 const Order = mongoose.model('Order', OrderSchema);
