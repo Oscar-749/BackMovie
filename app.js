@@ -1,4 +1,4 @@
-require ('./config/mongoose');
+let mongoose = require ('./config/mongoose');
 let createError = require('http-errors');
 let express = require('express');
 let path = require('path');
