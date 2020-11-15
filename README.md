@@ -7,5 +7,12 @@ Reto de una Base de Datos para alquilar peliculas donde podremos registarnos, ve
 - Express
 - Postman
 
-# GITHUB PAGES
-https://oscar-749.github.io/BackMovie/
+# HEROKU
+https://git.heroku.com/heroku-backmovie.git
+
+Para poder ver todos los usuarios registrados y las peliculas que hay, se introducen las siguientes rutas:
+  - Usuarios registrados: https://git.heroku.com/heroku-backmovie.git/users/all
+  - Peliculas: https://git.heroku.com/heroku-backmovie.git/movies/all
+  - Peididos: https://git.heroku.com/heroku-backmovie.git/orders/all
+
+
